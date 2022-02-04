@@ -1,0 +1,19 @@
+{
+    "name": "Bok",
+    "symbol": "BOK",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "23a6TUR92bjFSc5g2qmMfgHspAogD8dzn6LTsXNL4uaa",
+          "share": 100
+        }
+      ]
+    }
+  }

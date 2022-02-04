@@ -1,0 +1,19 @@
+{
+    "name": "Brocc",
+    "symbol": "BROCC",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "23a6TUR92bjFSc5g2qmMfgHspAogD8dzn6LTsXNL4uaa",
+          "share": 100
+        }
+      ]
+    }
+  }
